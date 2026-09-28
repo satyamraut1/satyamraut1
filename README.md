@@ -228,10 +228,10 @@ Areas I'm exploring include:
 
 I'm interested in cybersecurity, SOC operations, full stack development, AI technologies, and building practical technology solutions.
 
-- 💼 LinkedIn: YOUR_LINKEDIN_URL
-- 🌐 Portfolio: YOUR_PORTFOLIO_URL
-- 🛡️ TryHackMe: YOUR_TRYHACKME_URL
-- 💻 GitHub: YOUR_GITHUB_URL
+- 💼 LinkedIn: Satyam Raut
+- 🛡️ TryHackMe: satyamraut
+- 💻 GitHub: satyamraut1
+- 🌐 Portfolio: Coming Soon
 
 ---
 
